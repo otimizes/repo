@@ -69,4 +69,4 @@ mvn install:install-file -DgroupId=org.myfile -DartifactId=myfile -Dversion=4.0.
 </profiles>
 ```
 
-Obs: Do not forget to add a server xml tag in your .m2/settings.xml with your credentials
+Obs: Do not forget to add a server xml tag in your .m2/settings.xml with your credentials.
