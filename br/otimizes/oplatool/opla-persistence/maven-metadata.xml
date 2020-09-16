@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>br.otimizes.oplatool</groupId>
+  <artifactId>opla-persistence</artifactId>
+  <versioning>
+    <release>2.1.0-RELEASE</release>
+    <versions>
+      <version>2.1.0-RELEASE</version>
+    </versions>
+    <lastUpdated>20200916161415</lastUpdated>
+  </versioning>
+</metadata>
