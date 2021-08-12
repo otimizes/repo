@@ -27,7 +27,7 @@ mvn deploy:deploy-file -DgroupId=org.uml2.profile.l3 \
   -Durl=https://maven.pkg.github.com/otimizes/repo
 
       mvn deploy:deploy-file -DgroupId=org.uml2.resources4 \
-  -DartifactId=uml2-resources4 \
+  -DartifactId=uml2-resources \
   -Dversion=4.0.0 \
   -Dfile=uml2-resources-4.0.0.jar \
   -DrepositoryId=wmfsystem-pkg \
